@@ -6,3 +6,6 @@ On day 1 I arrived at 9 and I was introduced to our supervisers for the week and
 On day 2 I arrived at 9 and at 9:30 we started off with a stand up with Nigel where we recapped on everything we did on day 1. Then we went into our Pyhon notebook. In the Python notebook we started to learn how to code. We did coding excercises that gradually got harder as we learned how to do more advanced coding. Once we finished that we went into lunch. After a 1 hour lunch break we used our skills that welearned in our Python notebook to do  a challenge called cracking a million passwords.
 
 <img width="639" height="320" alt="image" src="https://github.com/user-attachments/assets/61e20044-36c0-45f3-86a0-6ab109d11d94" />
+
+# day 3
+On day 3 I arrived at 9:30 and like day 2 we started off with a stand up with Nigel and recapped on everything that I did on day 2. After that James came in and gave us a very interesting talk on the History of computing. After a small break we came back and did a bash coding treasure hunt which took a while but I eventually found the treasure. After a 1 hour lunch break we were put into groups and then we had to work together to build a rollercoaster out of straws
